@@ -6,7 +6,8 @@ It is a dockerfiler and how to use it to build go 1.5 in docker.
 How to use it
 ---------------
 
-```
+```shell
+
 	##clone docker file from git
 	git clone https://github.com/kkdai/docker-golang.git
 	
