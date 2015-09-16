@@ -1,10 +1,10 @@
 Docker Golang building in go 1.5
--------------------------
+---------------
 
-## How to use it
+It is a dockerfiler and how to use it to build go 1.5 in docker.
 
-
-#### Using Git
+How to use it
+---------------
 
 ```
 	##clone docker file from git
@@ -19,8 +19,12 @@ Docker Golang building in go 1.5
 
 ```
 
-## Note:
-
+Note:
+---------------
 You will need `rebuild` docker image once your source has changed.
 
 
+License
+---------------
+
+This package is licensed under MIT license. See LICENSE for details.
